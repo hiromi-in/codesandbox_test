@@ -1,10 +1,24 @@
-import "./styles.css";
+/*
+ * Declare variables such as const, let
+ */
 
-document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
-<div>
-  We use the same configuration as Parcel to bundle this sandbox, you can find more
-  info about Parcel 
-  <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
-</div>
-`;
+// var val1 = "variable var";
+// console.log(val1);
+
+// // We can rewrite val1
+// val1 = "rewrite variable var";
+// console.log(val1);
+
+// // Redeclare var variable
+// var val1 = "Redeclare var variable";
+// console.log(val1);
+
+// let val2 = "variable let";
+// console.log(val2);
+
+// // let variables are rewritable
+// val2 = "Rewrite let var";
+// console.log(val2)
+
+// // Cannot redeclare let var
+// let val2 = "redeclare let var";
